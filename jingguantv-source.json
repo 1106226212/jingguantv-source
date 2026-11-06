@@ -13,7 +13,6 @@
     { "name": "玉兔资源(切片)", "url": "https://apiyutu.com/api.php/provide/vod" },
     { "name": "HG", "url": "https://hong.hgyx.vip/api.php/provide/vod" },
     { "name": "无忧", "url": "https://www.wyvod.com/api.php/provide/vod" },
-    { "name": "淘片", "url": "https://taopianapi.com/cjapi/mc/vod/json.html" },
     { "name": "奇艺", "url": "https://iqiyizyapi.com/api.php/provide/vod" },
     { "name": "天涯", "url": "https://ty.tyyszy5.com/api.php/provide/vod" },
     { "name": "秒播", "url": "https://api.zeqaht.com/api.php/provide/vod" },
